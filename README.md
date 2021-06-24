@@ -1,4 +1,4 @@
-# Breaking Blocks - A 2D game
+# Breaking Blocks - A 2D game using C# and Unity Game Engine
 
 "Breaking Blocks" is my version of the Breakout-style game based on the 'paddle and ball vs. blocks' game mechanic.
 
