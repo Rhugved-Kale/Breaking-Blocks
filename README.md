@@ -21,7 +21,7 @@ So go and give it your best shot !
 
 
 
-# INSTALL INSTRUCTIONS :
+### INSTALL INSTRUCTIONS :
 
 1)Click on the Download button below to download the zip file.
 
@@ -30,7 +30,7 @@ So go and give it your best shot !
 3)Open the 'Breaking Blocks' folder and double click on 'Block Breaker'(Application file). Enjoy the game !
 
 
-# LINK :
+### LINK :
 
 https://rhugved.itch.io/breaking-blocks  
 
