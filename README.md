@@ -15,9 +15,9 @@ There are also some UNBREAKABLE and MYSTERY blocks which are conspicuous and for
 
  2) Launch the ball by clicking the left mouse button when you're good to go.
 
-You got 3 lives at each level !
-But it isn't as easy as it may seem.
-Do you think you could reach the last level ?
+You got 3 lives at each level !<br />
+But it isn't as easy as it may seem.<br />
+Do you think you could reach the last level ?<br />
 So go and give it your best shot !
 
 
