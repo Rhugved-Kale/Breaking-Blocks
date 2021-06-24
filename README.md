@@ -8,7 +8,7 @@ There are also some UNBREAKABLE and MYSTERY blocks which are conspicuous and for
 
 
 
-# CONTROLS :
+### CONTROLS :
 
  1)Move the paddle left or right by moving your mouse or using Touchpad.
 
