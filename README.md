@@ -8,6 +8,7 @@ There are also some UNBREAKABLE and MYSTERY blocks which are conspicuous and for
 
 
 <br />
+
 ### CONTROLS :
 
  1)Move the paddle left or right by moving your mouse or using Touchpad.
@@ -21,6 +22,7 @@ So go and give it your best shot !
 
 
 <br />
+
 ### INSTALL INSTRUCTIONS :
 
 1)Click on the Download button below to download the zip file.
@@ -30,6 +32,7 @@ So go and give it your best shot !
 3)Open the 'Breaking Blocks' folder and double click on 'Block Breaker'(Application file). Enjoy the game !
 
 <br />
+
 ### LINK :
 
 https://rhugved.itch.io/breaking-blocks  
