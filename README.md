@@ -21,7 +21,7 @@ So go and give it your best shot !
 
 
 
-Install instructions
+INSTALL INSTRUCTIONS :
 
 1)Click on the Download button below to download the zip file.
 
