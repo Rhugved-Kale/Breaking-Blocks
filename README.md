@@ -28,3 +28,10 @@ INSTALL INSTRUCTIONS :
 2)Extract/Unzip  the zip file.
 
 3)Open the 'Breaking Blocks' folder and double click on 'Block Breaker'(Application file). Enjoy the game !
+
+
+LINK :
+
+https://rhugved.itch.io/breaking-blocks  
+
+https://sharemygame.com/@Rhugved/breaking-blocks
