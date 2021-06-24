@@ -11,9 +11,9 @@ There are also some UNBREAKABLE and MYSTERY blocks which are conspicuous and for
 
 ### CONTROLS :
 
- 1)Move the paddle left or right by moving your mouse or using Touchpad.
+ 1) Move the paddle left or right by moving your mouse or using Touchpad.
 
- 2)Launch the ball by clicking the left mouse button when you're good to go.
+ 2) Launch the ball by clicking the left mouse button when you're good to go.
 
 You got 3 lives at each level !
 But it isn't as easy as it may seem.
@@ -25,11 +25,11 @@ So go and give it your best shot !
 
 ### INSTALL INSTRUCTIONS :
 
-1)Click on the Download button below to download the zip file.
+1) Click on the Download button below to download the zip file.
 
-2)Extract/Unzip  the zip file.
+2) Extract/Unzip  the zip file.
 
-3)Open the 'Breaking Blocks' folder and double click on 'Block Breaker'(Application file). Enjoy the game !
+3) Open the 'Breaking Blocks' folder and double click on 'Block Breaker'(Application file). Enjoy the game !
 
 <br />
 
