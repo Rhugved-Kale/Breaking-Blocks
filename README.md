@@ -7,6 +7,7 @@ You can proceed to the next level only after destroying all the BREAKABLE blocks
 There are also some UNBREAKABLE and MYSTERY blocks which are conspicuous and for which no points are offered. Unbreakable blocks, as the name suggests are indestructible. Mystery blocks on the other hand are breakable and on hitting introduce some anomalous characteristics to either the game speed, the paddle or the ball (you'll see). This can either be of your advantage or it won't : it's up to you to shoot or shun !
 
 
+
 CONTROLS :
 
  1)Move the paddle left or right by moving your mouse or using Touchpad.
@@ -19,7 +20,9 @@ Do you think you could reach the last level ?
 So go and give it your best shot !
 
 
+
 Install instructions
+
 1)Click on the Download button below to download the zip file.
 
 2)Extract/Unzip  the zip file.
