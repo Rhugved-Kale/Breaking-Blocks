@@ -17,10 +17,10 @@ There are also some UNBREAKABLE and MYSTERY blocks which are conspicuous and for
  
 <br />
 
-You got 3 lives at each level !<br />
-But it isn't as easy as it may seem.<br />
-Do you think you could reach the last level ?<br />
-So go and give it your best shot !
+ - You got 3 lives at each level !<br />
+ - But it isn't as easy as it may seem.<br />
+ - Do you think you could reach the last level ?<br />
+ - So go and give it your best shot !
 
 
 <br />
