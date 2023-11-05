@@ -1,5 +1,9 @@
 # Breaking Blocks - A 2D game using C# and Unity Game Engine
 
+![ss1](https://github.com/Rhugved-Kale/Breaking-Blocks-A-2D-game/assets/86423298/3ce6d764-5d91-474d-9aac-0c608a3ed991)  ![bb2](https://github.com/Rhugved-Kale/Breaking-Blocks-A-2D-game/assets/86423298/553dcca1-2c1f-4f74-98fc-0aeae2225b88)
+
+
+
 "Breaking Blocks" is my version of the Breakout-style game based on the 'paddle and ball vs. blocks' game mechanic.
 
 You can proceed to the next level only after destroying all the BREAKABLE blocks (single or multi-hit) while simultaneously earning points ! (20 for 1-hit blocks  :  24 for 2-hit blocks  :  32 for 3-hit blocks)
